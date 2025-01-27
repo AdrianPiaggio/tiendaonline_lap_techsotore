@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">agregar explicacion</p>
+<p align="left">El proyecto consiste en analizar las ventas de una tienda online de venta al menudeo de tecnologia, con la ayuda de las herramientas de Power BI y Mysql, donde creamos una base de datos simulada con transacciones lo mas cercano a la realidad. A través de una conexión ETL y utilizando la modelacio de datos con POWERBI, se crearon visualizaciones para entender mejor las tendencias de alquiler, las películas más populares y los comportamientos de los clientes. Los informes generados muestran los hallazgos más importantes de manera clara y accesible, con el objetivo de ayudar a comprender mejor el desempeño de la tienda.</p>
 
 ###
 
