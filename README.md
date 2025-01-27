@@ -2,17 +2,15 @@
 
 ###
 
-<p align="left">Alumnos integrantes: Adrian Javier Piaggio 
-                                     Laura fariña</p>
+<p align="left">Alumnos integrantes: Adrian Javier Piaggio<br>Laura fariña</p>
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">Logica y explicacion breve del proyecto</h2>
 
 ###
 
-<p align="left">Alumnos integrantes: Adrian Javier Piaggio 
-                                     Laura fariña</p>
+<p align="left">agregar explicacion</p>
 
 ###
 
