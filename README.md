@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Alumnos integrantes: Adrian Javier Piaggio<br>Laura fariña</p>
+<p align="left">Alumnos integrantes: <br>Adrian Javier Piaggio<br>Laura fariña</p>
 
 ###
 
@@ -11,6 +11,10 @@
 ###
 
 <p align="left">agregar explicacion</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
