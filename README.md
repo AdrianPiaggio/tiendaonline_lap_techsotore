@@ -7,7 +7,12 @@
 
 ###
 
-<h2 align="left">aaaaa</h2>
+<h2 align="left"></h2>
+
+###
+
+<p align="left">Alumnos integrantes: Adrian Javier Piaggio 
+                                     Laura fariña</p>
 
 ###
 
