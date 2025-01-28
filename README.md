@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Logica y explicacion breve del proyecto</h2>
+<h2 align="left">Explicación y lógica del proyecto</h2>
 
 ###
 
-<p align="left">El proyecto consiste en analizar las ventas de una tienda online de venta al menudeo de tecnologia, con la ayuda de las herramientas de Power BI y Mysql, donde creamos una base de datos simulada con transacciones lo mas cercano a la realidad. A través de una conexión ETL y utilizando la modelacio de datos con POWERBI, se crearon visualizaciones para entender mejor las tendencias de alquiler, las películas más populares y los comportamientos de los clientes. Los informes generados muestran los hallazgos más importantes de manera clara y accesible, con el objetivo de ayudar a comprender mejor el desempeño de la tienda.</p>
+<p align="left">El proyecto consiste en analizar las ventas de una tienda online de venta al menudeo de tecnología, con la ayuda de las herramientas de Power BI y Mysql, donde creamos una base de datos simulada con transacciones lo más cercano a la realidad. A través de una conexión ETL y utilizando el modelado de datos con PowerBI, se crearon visualizaciones para entender mejor el comportamientos de los consumidores, las tendencias estacionales y las propias tendencias del negocio, como así también importantes KPI´S críticos para diseñar estrategias sobre fidelización y retención de clientes, panorama económico, entre otras y para fundamentar la tomas de las decisiones. Estos reportes son fundamentales para dar a conocer a los tomadores de decisiones tengan conocimientos técnicos o no, sobre el estado actual y futuro de la tienda y poder tomar acción sobre los puntos que se deseen en pos del crecimiento tanto en la región como en nuevos mercados. </p>
 
 ###
 
